@@ -205,6 +205,10 @@ const CONFIG = {
     // ─── CONTACT ───────────────────────────────────────────
     contactTitle: "Tell us what you need.",
     contactLead:  "Describe the job and we will get back to you with availability and a quote.",
-    contactPlaceholder: "e.g. describe your project or the work needed — the more detail the better"
+    contactPlaceholder: "e.g. describe your project or the work needed — the more detail the better",
+
+    // ─── CLOSING CTA BAND ──────────────────────────────────
+    ctaBannerTitle: "Burst pipe <em>right now?</em>",
+    ctaBannerSub:   "One call and a plumber is on the way — emergencies welcome."
   }
 };
